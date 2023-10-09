@@ -1,0 +1,12 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "ProShop V2",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "Ronald",
+  "license": "MIT"
+}
