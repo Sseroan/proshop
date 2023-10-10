@@ -68,14 +68,14 @@ const ProductScreen = () => {
                 </Row>
               </ListGroup.Item>
 
-              {/* <ListGroup.Item>
+              <ListGroup.Item>
                 <Row>
                   <Col>Number Available:</Col>
                   <Col>
                     <strong>{product.countInStock}</strong>
                   </Col>
                 </Row>
-              </ListGroup.Item> */}
+              </ListGroup.Item>
 
               <ListGroup.Item>
                 <Button
