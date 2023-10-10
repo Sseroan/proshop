@@ -37,14 +37,14 @@ const ProductScreen = () => {
             </ListGroup.Item>
             <ListGroup.Item>
               <Rating
-                value={product.nunReviews}
-                text={`${product.nunReviews} reviews`}
+                value={product.rating}
+                text={`${product.numReviews} reviews`}
               />
             </ListGroup.Item>
             <ListGroup.Item>Price : ${product.price}</ListGroup.Item>
             <ListGroup.Item>Description : {product.description}</ListGroup.Item>
           </ListGroup>
-        </Col>
+        </Col>  
         <Col md={3}>
           <Card>
             <ListGroup variant='flush'>

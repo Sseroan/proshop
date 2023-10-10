@@ -9,7 +9,7 @@ const products = [
     price: 89.99,
     countInStock: 10,
     rating: 4.5,
-    nunReviews: 12,
+    numReviews: 12,
   },
   {
     name: 'Iphone 11 Pro 256GB Memory ',
@@ -21,7 +21,7 @@ const products = [
     price: 599.99,
     countInStock: 7,
     rating: 4.0,
-    nunReviews: 8,
+    numReviews: 8,
   },
   {
     name: 'Cannon E05 60D DSLR CAmera',
@@ -33,7 +33,7 @@ const products = [
     price: 929.99,
     countInStock: 15,
     rating: 3.5,
-    nunReviews: 20,
+    numReviews: 20,
   },
   {
     name: 'Sony Playstation 4 Pro White Version',
@@ -45,7 +45,7 @@ const products = [
     price: 399.99,
     countInStock: 7,
     rating: 5,
-    nunReviews: 4,
+    numReviews: 4,
   },
   {
     name: 'Logitec G-Seris Gaming Mouse',
@@ -57,7 +57,7 @@ const products = [
     price: 49.99,
     countInStock: 15,
     rating: 3,
-    nunReviews: 20,
+    numReviews: 20,
   },
   {
     name: 'Amazon Echo Bot 3rd Generation',
@@ -69,7 +69,7 @@ const products = [
     price: 29.99,
     countInStock: 0,
     rating: 4,
-    nunReviews: 12,
+    numReviews: 12,
   },
 ];
 
